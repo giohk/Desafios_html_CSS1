@@ -1,0 +1,10 @@
+.posicao {
+    width: 200px;
+    height: 200px;
+    background-color: fuchsia;
+    border-bottom: 3px lightpink;
+}
+.static {
+    border-right: 5px salmon;
+    position: static;
+}

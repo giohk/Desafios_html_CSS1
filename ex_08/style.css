@@ -1,0 +1,43 @@
+body {
+    /* local de mecher na margem */
+    margin: 0;
+    margin-top:90px ;
+    margin-left: 100px;
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(227, 12, 65);
+    /* espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* linha que fica após o padding */
+    border: 30px solid rgb(137, 12, 66);
+    border-left: 15px dotted rgb(161, 149, 199);
+    border-right-style double;
+     border-radius:100px;
+     margin: 50px 50px;
+
+    }
+    body {
+        /* local de mecher na margem */
+        margin: 0;
+        margin-top:90px ;
+        margin-left: 100px;
+    }
+    
+    .boxmodel2{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(211, 47, 74);
+        /* espaçamento depois do conteudo */
+        padding: 30px 30px;
+        /* linha que fica após o padding */
+        border: 30px solid rgb(79, 180, 214);
+        border-left: 15px dotted rgb(216, 144, 158);
+        border-right-style double:;
+         border-radius:100px;
+         margin: 50px 50px;
+    
+    
+        }

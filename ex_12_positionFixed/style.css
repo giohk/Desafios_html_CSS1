@@ -1,0 +1,39 @@
+.position{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(204, 50, 106);
+    border-bottom: 4px solid rgb(8, 165, 232);
+}
+
+.static{
+    position: static;
+}
+.relative{
+    position: relative;
+    background-color: rgb(177, 36, 156);
+    top: 100px;
+    left: 20px;
+}
+.absolute{
+    position: absolute;
+    background-color: rgb(126, 227, 163);
+    top: 0;
+    right: 0;
+}
+.mini-div{
+    height: 20px;
+    width: 20px;
+    border: 2px dotted rgb(69, 146, 143);
+    top: 0;
+    left: 0;
+}
+.fixed{
+    /* fixed=fica fixo em qulquer espaço que escolher do html */
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(203, 66, 157);
+    right: 50px;
+    bottom: 50px;
+
+}
